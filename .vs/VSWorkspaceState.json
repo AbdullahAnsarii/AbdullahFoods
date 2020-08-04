@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\packages",
-    "\\site"
+    "\\site",
+    "\\site\\bin",
+    "\\site\\obj",
+    "\\site\\Properties"
   ],
   "SelectedNode": "\\site.sln",
   "PreviewInSolutionExplorer": false
